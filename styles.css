@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+
+/* this is pre-written code...J.S
+
+function Person(name, age) {}
+
+function Employee(name, age, jobTitle) {}
+
+// Do not change code below this line
+window.Person = Person;
+window.Employee = Employee;
